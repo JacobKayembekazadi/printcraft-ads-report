@@ -1,0 +1,5 @@
+{
+  "name": "PrintCraft DTF Analysis Report",
+  "description": "An interactive web application that provides a comprehensive analysis of advertising performance for PrintCraft DTF campaigns, featuring data visualizations and AI-powered insights from Gemini.",
+  "requestFramePermissions": []
+}
